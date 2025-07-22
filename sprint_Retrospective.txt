@@ -1,0 +1,21 @@
+Projeto ford enter:
+desenvolvedor: Renato
+Data: 16.07.2025 a 22.07.2025
+Sprint 2
+
+Historia implementadas
+
+ID 1 -  ver a fonte com os nomes dos veículos na cor azul
+
+
+Funcionou de forma adequada                : A cor da fonte foi aplicado corretamente nos nomes dos veículos
+O que não funcionou de forma adequada      : funcionou tudo de forma adequada
+Sugestões de melhoria                      : Criar checklist de validação antes do push final, Planejar testes em múltiplos navegadores
+
+
+
+ID3 -  nomes dos links para as outras páginas
+ 
+Funcionou de forma adequada                : Os nomes dos link funcionou corretação, usamos o Git e GitHub com sucesso para versionar o código  
+O que não funcionou de forma adequada      : funcionou tudo de forma adequada
+Sugestões de melhoria                      : Criar checklist de validação antes do push final, Planejar testes em múltiplos navegadores
